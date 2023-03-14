@@ -1,5 +1,5 @@
-# FWD-Cerificate-
-FWD (Challenger Track) Cerificate
-and FWD (Professional Track) Cerificate
-and FWD (Advanced Track) Cerificate
+# FWD-Certificate-
+FWD (Challenger Track) Certificate
+and FWD (Professional Track) Certificate
+and FWD (Advanced Track) Certificate
 Data Analysis
